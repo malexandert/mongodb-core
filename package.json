@@ -18,7 +18,7 @@
   ],
   "dependencies": {
     "bson": "~1.0.4",
-    "require_optional": "^1.0.0"
+    "require_optional": "github:sebthedev/require_optional#walk-up-tree"
   },
   "devDependencies": {
     "co": "^4.5.4",
@@ -33,8 +33,7 @@
     "nyc": "^5.5.0",
     "optimist": "latest",
     "rimraf": "2.2.6",
-    "semver": "4.1.0",
-    "snappy": "^6.0.0"
+    "semver": "4.1.0"
   },
   "peerOptionalDependencies": {
     "kerberos": "~0.0",
