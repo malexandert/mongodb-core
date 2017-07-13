@@ -21,17 +21,21 @@
     "require_optional": "^1.0.1"
   },
   "devDependencies": {
+    "chai": "^4.1.0",
     "co": "^4.5.4",
     "coveralls": "^2.11.6",
     "es6-promise": "^3.0.2",
     "gleak": "0.5.0",
     "integra": "0.1.8",
     "jsdoc": "3.3.0-alpha8",
+    "metamocha": "^1.0.1",
     "mkdirp": "0.5.0",
+    "mocha": "^3.4.2",
     "mongodb-topology-manager": "1.0.x",
     "mongodb-version-manager": "christkv/mongodb-version-manager#master",
     "nyc": "^5.5.0",
     "optimist": "latest",
+    "recursive-readdir-sync": "^1.0.6",
     "rimraf": "2.2.6",
     "semver": "4.1.0",
     "snappy": "^6.0.0"
